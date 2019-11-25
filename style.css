@@ -1,0 +1,33 @@
+body{
+    background-image:url(imeg/aasdd.jpg);
+   border: solid yellow;
+}
+h1{
+    background:none;
+padding-left: 200px;
+margin-right: 250px;
+color:yellow
+}
+h2{
+    background:none;
+    padding-left: 200px;
+    margin-right: 250px;
+    color: azure;
+}
+button{
+    background-color: green;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: brown;
+    
+}
+.div{
+    display:flex;
+    align-items: center;
+    border: solid green;
+}
+p{
+    color: blue;
+    padding-left: 200px;
+margin-right: 250px;
+}
